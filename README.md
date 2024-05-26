@@ -2,6 +2,12 @@
 # React Landing Page
 This project is a React implementation of a landing page with dynamic features.
 
+## Screenshots
+
+![Screenshot 1](https://github.com/dkasun2001/ev-website/blob/main/Capture1.JPG)
+![Screenshot 2](https://github.com/dkasun2001/ev-website/blob/main/Capture2.JPG)
+![Screenshot 3](https://github.com/dkasun2001/ev-website/blob/main/Capture3.JPG)
+
 Features
 Changing background image/video with a smooth fade-in transition.
 Navbar component for navigation.
@@ -31,14 +37,18 @@ assets/: Stores images and video used in the project.
 # Getting Started
 
 Clone this repository.
+```Bash
+git clone https://github.com/dkasun2001/ev-website/.git
+```
+
 Install dependencies:
-
-Bash
+```Bash
 npm install
+```
 
-
-# Run the development server:
-Bash
+Run the development server:
+```Bash
 npm start
+```
 
 This will start the development server at http://localhost:3000 by default.
