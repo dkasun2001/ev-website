@@ -1,4 +1,4 @@
-# EV-Website | React Landing Page
+## EV-Website | React Landing Page
 This project is a React implementation of a landing page with dynamic features.
 
 ## Screenshots
@@ -13,7 +13,7 @@ Navbar component for navigation.
 Hero section with text and a button to control background video playback (play/pause).
 Dots indicating the current background image.
 
-#Folder Structure
+## Folder Structure
 
 src/
   - components/ (folder containing reusable components)
@@ -32,7 +32,7 @@ Files/
   -index.css: Defines global styles for the application.
   -assets/: Stores images and video used in the project.
 
-# Getting Started
+## Getting Started
 
 1. Clone this repository.
 ```Bash
